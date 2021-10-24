@@ -5,8 +5,8 @@
 
 ****my problems****
 
-5.I am trying to use my previous assignment that is assignment no 9
-6.Bbut I was faceing some problem . I can not push my code into private repogitory which link is given from programming hero team.
+5.I am trying to use my previous assignment that is assignment no-9
+6.But I was faceing some problem . I can not push my code into private repogitory which link is given from programming hero team.
 7.That why I have made public repogitory 
 8.And also I was not able to depoly my project in Firebase    // please sir consider me
 
